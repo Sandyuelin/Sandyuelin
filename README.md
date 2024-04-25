@@ -1,7 +1,7 @@
 Hi there, Sandy here :D
-🌱I'm currently a student in Duke Kunshan University, class of 2027.
-📫How to reach me: yuelin.hou@dukekunshan.edu.cn
-Get things done
+- 🌱I'm currently a student in Duke Kunshan University, class of 2027.
+- 📫How to reach me: yuelin.hou@dukekunshan.edu.cn
+- Get things done
 
 <!--
 **Sandyuelin/Sandyuelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
