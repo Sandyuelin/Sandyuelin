@@ -1,4 +1,4 @@
-Hello there, Sandy here :D
+Hello there, Sandy here <3 
 - 🌱I'm currently an undergraduate student in Duke Kunshan University, class of 2027.
 - 📫How to reach me: yuelin.hou@dukekunshan.edu.cn
 - ✨Get things done
